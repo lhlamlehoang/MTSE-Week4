@@ -1,8 +1,10 @@
-const friends = [
-    {id:1,name:"Nguyen Van A"},
-    {id:2, name:"Nguyen Van B"}
+const mygroup = [
+    {
+        id: "20110030", 
+        name: "Lê Hoàng Lâm"
+    }
 ];
 
 module.exports = {
-   friends
+    mygroup
 };
